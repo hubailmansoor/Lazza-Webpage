@@ -1,0 +1,162 @@
+
+body{
+    margin: 0;
+    width: 1903px;
+    height: 2848.45px;
+    overflow-x: hidden;
+
+}
+header{
+    background: black;
+    width: 1905px;
+    height: 95.906px;
+    display: flex;
+    position: fixed;
+}
+.logo{
+    width: 120px;
+    padding-top: 8px;
+    padding-left: 32px;
+}
+.banner
+{
+    margin-top: 96px;
+}
+ul{
+    list-style-type: none;
+    
+    z-index: 2;
+    display: flex;
+    width: 1500.84px;
+    height: 27px;
+    justify-content: flex-end;
+    padding-top: 23px;
+    
+}
+li{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    font-size: 18px;
+    padding: 0 10px;
+}
+.a1{
+    text-decoration: none;
+    color:white;  
+}
+.icons-div{
+    width: 141px;
+    height: 27px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-top: 39px;
+    margin-left: 10px;
+}
+.icons{
+    padding: 0 10px;
+}
+.banner{
+    width: 1903px;
+    height: 901.94px;
+    z-index: 0;
+}
+.page2{
+    width: 1903px;
+    height: 1419px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.productsdiv{
+    background-color: rgb(255, 255, 255);
+    width: 1220px;
+    height: 1229px;
+    font-size: 46px;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+.products{
+    width: 1220px;
+    height: 1123.81px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    
+}
+.wide{
+    width: 1220px;
+    height: 105.19px;
+}
+.item{
+    width: 376.656px;
+    height: 324.688px;
+    background-color: rgb(255, 255, 255);
+}
+.item7-div{
+    width: 1220px;
+    height: 324.688px;
+    padding-left: 15px;
+    background-color: rgb(255, 255, 255);
+}
+.image{
+    width: 376.66px;
+    height: 275.89px;
+}
+.item-text{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    color: black;
+    text-align: center;
+}
+.party{
+    width: 1903px;
+    height: 235.39px;
+    background-color: #be9509;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.partyimg{
+    width: 1220px;
+    height: 195.39px;
+}
+footer{
+    width: 100%;
+    height: 222.59px;
+    background-color: black;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.footcol{
+    width: 173.328px;
+    height: 182.95px;
+    background-color: #000000;
+}
+.simons{
+    width: 150px;
+    height: 136.64px;
+}
+.help{
+    width: 173.33px;
+    height: 21.59px;
+}
+.footcol{
+    padding: 0 15px;
+}
+h4{
+    color: #be9509;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+}
+.foot-font{
+    color: #be9509;
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 7px;
+    font-size: 15px;
+
+}
